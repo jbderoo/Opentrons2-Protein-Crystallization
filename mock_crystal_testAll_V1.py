@@ -24,6 +24,8 @@ vialPipetteOffsets = {
                           }
 }
 
+# this function was written by Thomas Lauer
+# https://github.com/tjlauer/Opentrons_OT-2
 def getTopOffset(plate, vialLocation, vialName, volume_uL):
     
     volume_uL = volume_uL - 1000
