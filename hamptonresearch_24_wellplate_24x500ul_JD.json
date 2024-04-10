@@ -1,0 +1,328 @@
+{
+    "wells": {
+        "D1": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 30.43,
+            "y": 143.48,
+            "z": 22
+        },
+        "D2": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 30.43,
+            "y": 121.18,
+            "z": 22
+        },
+        "D3": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 30.43,
+            "y": 98.88,
+            "z": 22
+        },
+        "D4": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 30.43,
+            "y": 76.58,
+            "z": 22
+        },
+        "D5": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 30.43,
+            "y": 54.28,
+            "z": 22
+        },
+        "D6": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 30.43,
+            "y": 31.98,
+            "z": 22
+        },
+        "C1": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 52.73,
+            "y": 143.48,
+            "z": 22
+        },
+        "C2": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 52.73,
+            "y": 121.18,
+            "z": 22
+        },
+        "C3": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 52.73,
+            "y": 98.88,
+            "z": 22
+        },
+        "C4": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 52.73,
+            "y": 76.58,
+            "z": 22
+        },
+        "C5": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 52.73,
+            "y": 54.28,
+            "z": 22
+        },
+        "C6": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 52.73,
+            "y": 31.98,
+            "z": 22
+        },
+        "B1": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 75.03,
+            "y": 143.48,
+            "z": 22
+        },
+        "B2": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 75.03,
+            "y": 121.18,
+            "z": 22
+        },
+        "B3": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 75.03,
+            "y": 98.88,
+            "z": 22
+        },
+        "B4": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 75.03,
+            "y": 76.58,
+            "z": 22
+        },
+        "B5": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 75.03,
+            "y": 54.28,
+            "z": 22
+        },
+        "B6": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 75.03,
+            "y": 31.98,
+            "z": 22
+        },
+        "A1": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 97.33,
+            "y": 143.48,
+            "z": 22
+        },
+        "A2": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 97.33,
+            "y": 121.18,
+            "z": 22
+        },
+        "A3": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 97.33,
+            "y": 98.88,
+            "z": 22
+        },
+        "A4": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 97.33,
+            "y": 76.58,
+            "z": 22
+        },
+        "A5": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 97.33,
+            "y": 54.28,
+            "z": 22
+        },
+        "A6": {
+            "totalLiquidVolume": 500,
+            "diameter": 16.5,
+            "shape": "circular",
+            "depth": 4.4,
+            "x": 97.33,
+            "y": 31.98,
+            "z": 22
+        }
+    },
+    "groups": [
+        {
+            "metadata": {
+                "displayName": "Hampton Research Cryschem 6x4 Well Plate 500 uL",
+                "displayCategory": "wellPlate",
+                "wellBottomShape": "u"
+            },
+            "brand": {
+                "brand": "Hampton Research",
+                "brandId": [
+                    "HR3-159"
+                ],
+                "links": [
+                    "https://hamptonresearch.com/product-Cryschem-Plate-84.html"
+                ]
+            },
+            "wells": [
+                "D1",
+                "D2",
+                "D3",
+                "D4",
+                "D5",
+                "D6",
+                "C1",
+                "C2",
+                "C3",
+                "C4",
+                "C5",
+                "C6",
+                "B1",
+                "B2",
+                "B3",
+                "B4",
+                "B5",
+                "B6",
+                "A1",
+                "A2",
+                "A3",
+                "A4",
+                "A5",
+                "A6"
+            ]
+        }
+    ],
+    "brand": {
+        "brand": "Hampton Research",
+        "brandId": [],
+        "links": []
+    },
+    "metadata": {
+        "displayName": "Hampton Research Cryschem 24 Well Plate 500 uL",
+        "displayCategory": "wellPlate",
+        "displayVolumeUnits": "\u00b5L",
+        "tags": []
+    },
+    "dimensions": {
+        "xDimension": 127.76,
+        "yDimension": 175.46,
+        "zDimension": 26.4
+    },
+    "parameters": {
+        "format": "irregular",
+        "isTiprack": false,
+        "isMagneticModuleCompatible": false,
+        "loadName": "hamptonresearch_24_wellplate_24x500ul_jd"
+    },
+    "ordering": [
+        [
+            "A1",
+            "A2",
+            "A3",
+            "A4",
+            "A5",
+            "A6"
+        ],
+        [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B6"
+        ],
+        [
+            "C1",
+            "C2",
+            "C3",
+            "C4",
+            "C5",
+            "C6"
+        ],
+        [
+            "D1",
+            "D2",
+            "D3",
+            "D4",
+            "D5",
+            "D6"
+        ]
+    ],
+    "namespace": "custom_beta",
+    "version": 1,
+    "schemaVersion": 2,
+    "cornerOffsetFromSlot": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}
